@@ -1,0 +1,1 @@
+打开control.py运行
